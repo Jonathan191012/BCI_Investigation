@@ -1,2 +1,2 @@
-# BCI_Investigation
-Investigacion BCI Proyecto Final Lenguajes de Interfaz 
+# BCI (Brain–computer interface)
+
