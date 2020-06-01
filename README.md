@@ -134,3 +134,4 @@ Uno de los proyectos más interesantes realizados con MindFlex es el manejo de 
 5. http://www.frontiernerds.com/brain-hack
 6. http://neurosky.com/
 
+
